@@ -5,7 +5,7 @@ import { Toaster } from "react-hot-toast";
 
 import App from "./components/App/App";
 
-import "modern-normalize";
+import "modern-normalize/modern-normalize.css";
 import "./index.css";
 
 const queryClient = new QueryClient();
